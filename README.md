@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @grey4owl
 - 👀 I’m interested in everything about web technology..
-- 🌱 I’m currently learning neutralino.js
+- 🌱 I’m currently learning tauri.js
 - 📫 How to reach me > grey4owl@gmail.com
 
 <!---
