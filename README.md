@@ -9,7 +9,7 @@
 
 I am a very shy ( introvert ) person but also a very positive and i like to smile even if I have no reason. I don't smoke, don't drink, don't like society too much. My favorite color is grey, favorite animal is an owl, favorite direction - North, and my favorite song is "The Hope Arsenal - Wake Your Soul". 
 
-I live **MY LIFE** with **MY RULES** !
+###### # I live my life with my rules !
 <!---
 grey4owl/grey4owl is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
