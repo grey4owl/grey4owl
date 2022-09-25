@@ -4,7 +4,7 @@
 - 📫 How to reach me 👉 grey4owl@gmail.com | https://www.linkedin.com/in/marko-djokanovic-4949b71a4/
 - 💻 Technology i use: js, nim, alpine-js, tauri-js, neutralino-js, php, pouch-db, webtorrent.
 - 💼 I’m currently work in local company as CNC programmer (g-code & macro-b).
-- 🔥 My speciality is Web Dev/Design.
+- 🔥 My speciality is Web Dev / Design.
 
 ### Some facts about me..
 
