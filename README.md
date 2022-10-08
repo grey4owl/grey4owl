@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @grey4owl
 - 👀 I’m interested in everything about web technology..
-- 🌱 I’m currently learning web3 ( ipfs / ipns, web3.storage ) & Vale.
+- 🌱 I’m currently learning web3 ( point network ), Vale & Nim
 - 📫 How to reach me 👉 grey4owl@gmail.com | https://www.linkedin.com/in/marko-djokanovic-4949b71a4/
 - 💻 Technology i use: js, nim, alpine-js, tauri-js, neutralino-js, php, pouch-db, webtorrent.
 - 💼 I’m currently work in local company as CNC programmer (g-code & macro-b).
