@@ -8,7 +8,7 @@
 
 ### Some facts about me..
 
-I am a very shy ( introvert ) person but also a very positive and i like to smile even if I have no reason. I don't smoke, don't drink, don't like society too much. My favorite color is grey, favorite animal is an owl, favorite direction - North, and my favorite song is "The Hope Arsenal - Wake Your Soul". 
+I am a very shy ( introvert ) person but also a very positive and i like to smile even if I have no reason. I don't smoke, don't drink, don't like to do haircuts so often, don't like society too much. My favorite color is grey, favorite animal is an owl, favorite direction - North, and my favorite song is "The Hope Arsenal - Wake Your Soul". My distinguishing features: silent and smiling 😋
 
 ###### # I live my life with no rules !
 <!---
