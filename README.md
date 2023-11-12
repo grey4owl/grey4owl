@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @grey4owl
 - 👀 I’m interested in everything about web technology and CNC machining..
 - 📫 How to reach me 👉 grey4owl@gmail.com | [linkedin](https://www.linkedin.com/in/marko-djokanovic/)
-- 💻 Technology i use: js, lua, alpine-js, tauri-js, htmx, pouch-db, webtorrent.
+- 💻 Technology i use: `js` `lua` `alpine-js` `tauri-js` `htmx` `pouch-db` `webtorrent`.
 - 💼 I’m currently work in local company as CNC programmer (g-code & macro-b).
 - 🔥 My speciality is Web Dev / CNC Machining.
 
