@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @grey4owl
+- 👋 Hi, I’m maᴚko
 - 👀 I’m interested in everything about web technology and CNC machining..
 - 📫 How to reach me 👉 grey4owl@gmail.com | [linkedin](https://www.linkedin.com/in/markodjokanovic/)
 - 💻 Technology i use: `v` `rust` `js` `lua` `alpine-js` `tauri-js` `htmx` `surrealdb` `webtorrent`.
